@@ -1,7 +1,7 @@
 #!/bin/bash
 set -ev
 
-rm -fr Frameworks/DiyalogEngine.framework
+# rm -fr Frameworks/DiyalogEngine.framework
 
 echo "fetching DiyalogEngine.framework"
 curl -OL http://diyalog.im/app/pkgs/DiyalogEngine.zip
