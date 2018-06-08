@@ -8,5 +8,5 @@ curl -OL http://diyalog.im/app/pkgs/DiyalogEngine.zip
 
 unzip -o -q DiyalogEngine.zip
 mv DiyalogEngine.framework Frameworks
-mv DiyalogEngine.framework.dSYM Frameworks
+# mv DiyalogEngine.framework.dSYM Frameworks
 rm DiyalogEngine.zip
