@@ -37,6 +37,8 @@ Pod::Spec.new do |s|
     s.dependency 'SocketRocket'
     s.dependency 'AlamofireImage'
     s.dependency 'Alamofire'
+    s.dependency 'CocoaAsyncSocket'
+
 
   s.preserve_paths = 'Frameworks'
   s.vendored_framework = 'Frameworks/DiyalogEngine.framework'
