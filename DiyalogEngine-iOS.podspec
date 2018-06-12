@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "DiyalogEngine-iOS"
-  s.version      = "0.0.1"
+  s.version      = "1.0.1"
   s.summary      = "DiyalogEngine-iOS SDK for intergration DiyalogEngine Messaging to your apps"
 
   s.homepage     = "http://diyalog.im/"
