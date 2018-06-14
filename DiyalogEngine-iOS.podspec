@@ -31,13 +31,13 @@ Pod::Spec.new do |s|
   CMD
 
   s.dependency 'J2ObjC-Framework'
-  s.dependency 'MBProgressHUD'
-    s.dependency 'RSKImageCropper'
-    s.dependency 'SZTextView'
+#s.dependency 'MBProgressHUD'
+#   s.dependency 'RSKImageCropper'
+#   s.dependency 'SZTextView'
     s.dependency 'SocketRocket'
-    s.dependency 'AlamofireImage'
-    s.dependency 'Alamofire'
-    s.dependency 'CocoaAsyncSocket'
+#   s.dependency 'AlamofireImage'
+#   s.dependency 'Alamofire'
+#   s.dependency 'CocoaAsyncSocket'
 
 
   s.preserve_paths = 'Frameworks'
