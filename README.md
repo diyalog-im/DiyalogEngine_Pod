@@ -13,11 +13,10 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Installation
 
-DiyalogEngine is available through [CocoaPods](https://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+Simply add the following line to your Podfile:
 
 ```ruby
-pod 'DiyalogEngine-iOS'
+pod 'DiyalogEngine-iOS', :git => 'https://github.com/diyalog-im/DiyalogEngine_Pod.git'
 ```
 
 ## Author
